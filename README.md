@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm Milan Oli 👋
+### C++ Developer in Progress | OOP Student | Frontend Explorer
 
-<!--
-**milan-oli/milan-oli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year Computer Engineering student from Nepal, building real projects to go beyond what the classroom teaches. I started with C, moved to C++, and I'm currently deep into Object-Oriented Programming — writing programs that actually solve problems, not just pass assignments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 What I'm Building
+- **C++ Projects** — number guessing game with difficulty levels, student record manager, calculator — each one pushing past what I already know
+- **OOP Lab Work** — classes, constructors, inheritance, polymorphism as part of my college coursework
+- **Frontend** — learning HTML, CSS, and JavaScript on the side
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** C++, C, HTML, CSS
+- **Concepts:** OOP, Pointers, Dynamic Memory, File I/O, Data Structures
+- **Tools:** VS Code, Git, GitHub
+
+---
+
+## 📂 Projects
+|    Project                                                 | Description                                                 | Tech |
+|    ---                                                     |---                                                          |---   |
+| [Number Guessing Game]                                     | Difficulty levels, max attempts, replay logic               | C++  |
+         (https://github.com/milan-oli/Cpp/tree/main/11%20Project%20part-1/01%20Calculator)
+| [Student Record Manager]                                   | Struct-based record system with search and input validation | C++  |
+         (https://github.com/milan-oli/Cpp/tree/main/11%20Project%20part-1/02%20Number-Guessing-Game)
+| [Simple Calculator]                                        | Switch-based with division-by-zero handling                 | C++  |
+         (https://github.com/milan-oli/Cpp/tree/main/11%20Project%20part-1/03%20Student-Record-Manager)
+
+---
+
+## 📈 What's Next
+- Contact Book ( Classes, constructors, member functions, array of objects )
+- Student Grade Calculator ( Classes, parameterized constructor, member functions, static member )
+- Parking Lot System ( Classes, constructor/destructor, array of objects, pointer to objects, static member )
+
+---
+
+## 📬 Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/milan-oli)
+- 🐙 [GitHub](https://github.com/milan-oli)
+
+---
+*I don't just study concepts — I build things with them.*
