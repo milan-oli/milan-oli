@@ -24,8 +24,10 @@ I'm a first-year Computer Engineering student from Nepal, building real projects
 |    ---                                                     |---                                                          |---   |
 | [Number Guessing Game]                                     | Difficulty levels, max attempts, replay logic               | C++  |
          (https://github.com/milan-oli/Cpp/tree/main/11%20Project%20part-1/01%20Calculator)
+         
 | [Student Record Manager]                                   | Struct-based record system with search and input validation | C++  |
          (https://github.com/milan-oli/Cpp/tree/main/11%20Project%20part-1/02%20Number-Guessing-Game)
+         
 | [Simple Calculator]                                        | Switch-based with division-by-zero handling                 | C++  |
          (https://github.com/milan-oli/Cpp/tree/main/11%20Project%20part-1/03%20Student-Record-Manager)
 
